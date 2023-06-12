@@ -1,7 +1,11 @@
 {
   "name": "my-vue-app",
   "version": "0.0.0",
+  "engines": {
+    "node": "16.15.1"
+  },
   "private": true,
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
