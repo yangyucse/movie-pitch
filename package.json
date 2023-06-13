@@ -10,7 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-   "start": "vite",
+   "start": "npm run dev",
   },
   "dependencies": {
     "openai": "^3.2.1",
