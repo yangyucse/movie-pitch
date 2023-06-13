@@ -11,7 +11,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-   "start": "npm run dev",
+   "start": "node index.js"
   },
   "dependencies": {
     "openai": "^3.2.1",
