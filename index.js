@@ -9,7 +9,7 @@ const configuration = new Configuration({
 const openai = new OpenAIApi(configuration);
 
 
-const setupInputContainer = document.getElementById('setup-input-container')
+const setupInputContainer = document.querySelector('setup-input-container')
 const movieBossText = document.getElementById('movie-boss-text')
 
 
